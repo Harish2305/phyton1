@@ -1,7 +1,7 @@
-input=float(input())
+input=5
 if input>0:
-print('positive')
+  print('positive')
 if input==0:
-print('zero')
+  print('zero')
 if input<0:
-print('negative')
+  print('negative')
